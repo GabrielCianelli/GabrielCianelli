@@ -9,7 +9,6 @@
 - 💬 Ask me about **Test scenarios**
 
 - 📫 How to reach me **gabrielcianelli@hotmail.com**
-- 
 
 - 📄 Know about my experiences [www.linkedin.com/in/gabriel-cianelli](linkedin.com/in/gabriel-cianelli)
 
