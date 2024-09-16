@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">I am in the process of transitioning my career to the Technology sector, I am studying Systems Analysis and Development (SAD) at Anhembi Morumbi and in September I graduated from Tripleteen, I took the QA Analyst bootcamp.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcianelli&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielcianelli" /> </p>
 
 - 🌱 I’m currently learning **English, Cypress, Appium**
 
